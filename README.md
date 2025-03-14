@@ -4,8 +4,6 @@
  🔭 I’m currently working on manual testing, agile testing, bdd, kanban<br>
  🌱 I’m currently learning Codeceptjs and Robot<br>
 
->Tudo quanto te vier à mão para fazer, faça de todo coração, como para o **Senhor** e não aos homens.
-
 _______________________________________________________________________________________________
 
 <div style="display: inline_block>
